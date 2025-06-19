@@ -12,9 +12,6 @@
 - [Code Structure](#code-structure)
 - [Results](#results)
 - [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
-- [Citation](#citation)
 - [Contact](#contact)
 - [Acknowledgments](#acknowledgments)
 
