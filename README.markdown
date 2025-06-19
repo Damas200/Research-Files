@@ -149,25 +149,10 @@ Limitations include class imbalance ([314, 6] for Ocean Drifters, [520, 7] for S
 
 These visualizations underscore SANN’s focus on critical topological features, aligning with high test accuracies.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit changes (`git commit -m "Add your feature"`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
-Ensure code follows PEP 8 and includes tests. For major changes, open an issue to discuss.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Citation
-Please cite this work as:
-> Niyonkuru, D. (2025). *Simplicial Attention Neural Network with Applications to Trajectory Prediction*. Master’s thesis, African Institute for Mathematical Sciences, Rwanda.
 
 ## Contact
-For questions or dataset access, contact Damas Niyonkuru at [damas.niyonkuru@aims.ac.rw](mailto:damas.niyonkuru@aims.ac.rw) or open a GitHub issue.
+For questions or dataset access, contact Damas Niyonkuru at [damas.niyonkuru@aims.ac.rw](mailto:damas.niyonkuru@aims.ac.rw).
 
 ## Acknowledgments
 - **Dr. Olakunle S. Abawonse** (supervisor) for guidance in simplicial complexes and neural networks.
