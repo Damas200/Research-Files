@@ -16,7 +16,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-This repository contains the implementation and documentation for the **Simplicial Attention Neural Network (SANN)**, a novel deep learning architecture introduced in the thesis *Simplicial Attention Neural Network with Applications to Trajectory Prediction* by Damas Niyonkuru at the African Institute for Mathematical Sciences (AIMS) Rwanda. SANN leverages attention mechanisms and simplicial complexes to model higher-order interactions in complex systems, outperforming traditional graph neural networks in tasks involving group dynamics. The project evaluates SANN on four datasets: co-authorship networks (2-simplex and 3-simplex), ocean drifter trajectories, and synthetic flows, achieving test AUCs/accuracies of 97.8%, 97.1%, 98.4%, and 96.2%, respectively. The codebase includes Python scripts for data preprocessing, model training, and visualization, alongside a LaTeX chapter detailing the experiments. This work is dedicated to Damas' parents, Dr. Olakunle S. Abawonse, and Aime Barema for their support and guidance.
+This repository contains the implementation and documentation for the **Simplicial Attention Neural Network (SANN)**, a novel deep learning architecture introduced in the thesis *Simplicial Attention Neural Network with Applications to Trajectory Prediction* by Damas Niyonkuru at the African Institute for Mathematical Sciences (AIMS) Rwanda. SANN leverages attention mechanisms and simplicial complexes to model higher-order interactions in complex systems, outperforming traditional graph neural networks in tasks involving group dynamics. The project evaluates SANN on four datasets: co-authorship networks (2-simplex and 3-simplex), ocean drifter trajectories, and synthetic flows, achieving test AUCs/accuracies of 97.8%, 97.1%, 98.4%, and 96.2%, respectively. The codebase includes Python scripts for data preprocessing, model training, and visualization, alongside a LaTeX chapter detailing the experiments. This work is dedicated to Dr. Olakunle S. Abawonse, and Aime Barema for their support and guidance.
 
 Key features:
 - **2-Simplex Experiments**: Classifies three-author collaborations with a test AUC of 0.978.
@@ -155,6 +155,5 @@ For questions or dataset access, contact Damas Niyonkuru at [damas.niyonkuru@aim
 - **Dr. Olakunle S. Abawonse** (supervisor) for guidance in simplicial complexes and neural networks.
 - **Aime Barema** (tutor) for significant support.
 - AIMS Rwanda faculty and staff for research support.
-- Damas’ family, especially parents, for encouragement.
 - Peers at AIMS Rwanda for fellowship and mathematical discussions.
 - Open-source libraries: PyTorch, PyTorch Geometric, Optuna, Matplotlib, scikit-learn.
