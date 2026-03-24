@@ -4,7 +4,7 @@
 
 https://github.com/Damas200/taskflow-lite
 
----
+
 
 ## 2. How to Run the Application
 
@@ -17,7 +17,7 @@ python -m app.app
 Access:
 http://127.0.0.1:5001
 
----
+
 
 ### Docker Execution
 
@@ -26,7 +26,7 @@ docker build -t taskflow-lite .
 docker run -p 5001:5001 taskflow-lite
 ```
 
----
+
 
 ## 3. Key Features
 
@@ -37,7 +37,7 @@ docker run -p 5001:5001 taskflow-lite
 * Interactive UI
 * REST API backend
 
----
+
 
 ## 4. Working System Description
 
