@@ -4,7 +4,7 @@
 
 This project provided valuable experience in applying Agile and DevOps practices in a real-world scenario. It demonstrated how iterative development and automation improve efficiency and reliability.
 
----
+
 
 ## 2. Challenges Faced
 
@@ -12,7 +12,7 @@ This project provided valuable experience in applying Agile and DevOps practices
 * Docker networking challenges
 * Port conflicts during execution
 
----
+
 
 ## 3. How Agile and DevOps Helped
 
@@ -20,7 +20,7 @@ This project provided valuable experience in applying Agile and DevOps practices
 * DevOps ensured automation and consistency
 * CI/CD reduced errors and improved workflow
 
----
+
 
 ## 4. What I Would Do Differently
 
@@ -28,7 +28,7 @@ This project provided valuable experience in applying Agile and DevOps practices
 * Improve UI design
 * Add authentication
 
----
+
 
 ## 5. Key Takeaways
 
@@ -36,4 +36,4 @@ This project provided valuable experience in applying Agile and DevOps practices
 * DevOps enhances speed and quality
 * Combining both leads to efficient software delivery
 
----
+
