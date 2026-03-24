@@ -4,13 +4,12 @@
 
 **TaskFlow Lite – A Minimal Task Management Web Application**
 
----
+
 
 ## 2. Project Objective
 
 The objective of this project is to design, develop, and iteratively deliver a lightweight task management web application while applying Agile principles and DevOps practices. The project focuses on continuous delivery of working software, automation, and incremental improvement across multiple sprints.
 
----
 
 ## 3. Project Scope
 
@@ -31,7 +30,6 @@ The scope of this project is intentionally limited to a Minimum Viable Product (
 * CI/CD pipeline using GitHub Actions
 * Containerization using Docker
 
----
 
 ## 4. Rationale for Project Selection
 
@@ -39,7 +37,6 @@ This project was selected because it provides a balance between simplicity and f
 
 Additionally, the project is well-suited for implementing DevOps practices such as continuous integration, automated testing, and containerized deployment.
 
----
 
 ## 5. High-Level Features (Product Backlog)
 
@@ -53,7 +50,7 @@ Additionally, the project is well-suited for implementing DevOps practices such 
 | F6 | Data Storage | Persist tasks using SQLite          |
 | F7 | Basic UI     | Simple interface for interaction    |
 
----
+
 
 ## 6. Suitability for Agile and DevOps
 
@@ -69,7 +66,7 @@ Additionally, the project is well-suited for implementing DevOps practices such 
 * Allows containerization using Docker
 * Enables integration of automated testing and deployment
 
----
+
 
 ## 7. Expected Outcomes
 
@@ -80,4 +77,3 @@ By the end of this project, a fully functional task management application will 
 * Working software increments at each stage
 * Effective collaboration between development and operations practices
 
----
