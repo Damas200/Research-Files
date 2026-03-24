@@ -4,7 +4,7 @@
 
 The goal of Sprint 1 was to design and implement the core backend functionality of the TaskFlow Lite application by developing a RESTful API supporting CRUD operations for task management.
 
----
+
 
 ## 2. Sprint Backlog
 
@@ -17,7 +17,6 @@ The goal of Sprint 1 was to design and implement the core backend functionality 
 
 **Total Story Points:** 10
 
----
 
 ## 3. Daily Scrum Summary
 
@@ -32,7 +31,6 @@ The goal of Sprint 1 was to design and implement the core backend functionality 
 * Encountered module import issue due to missing `__init__.py`
 * Resolved by restructuring project as a Python package
 
----
 
 ## 4. Tasks Completed
 
@@ -47,7 +45,6 @@ The goal of Sprint 1 was to design and implement the core backend functionality 
 * Added basic test file
 * Committed and pushed code to GitHub
 
----
 
 ## 5. Working Increment Delivered
 
@@ -60,7 +57,6 @@ A fully functional backend API was delivered with the following capabilities:
 
 The API was successfully tested locally using a web browser and returned correct responses.
 
----
 
 ## 6. Burndown Table
 
@@ -72,13 +68,11 @@ The API was successfully tested locally using a web browser and returned correct
 | Day 4 | 2                      |
 | Day 5 | 0                      |
 
----
 
 ## 7. Sprint Review
 
 The backend API was demonstrated successfully, showing all CRUD operations working as expected. The system met all Sprint 1 objectives and provided a solid foundation for further development.
 
----
 
 ## 8. Sprint Retrospective
 
@@ -99,4 +93,3 @@ The backend API was demonstrated successfully, showing all CRUD operations worki
 * Improve time estimation
 * Focus on UI integration and deployment
 
----
