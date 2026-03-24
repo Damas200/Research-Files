@@ -9,7 +9,6 @@
 | Customer collaboration     | Simulated through sprint reviews and feedback          |
 | Responding to change       | Adjustments made between Sprint 1 and Sprint 2         |
 
----
 
 ## 2. Agile Principles Applied
 
@@ -18,20 +17,17 @@
 * Simplicity by focusing on MVP
 * Technical excellence through CI/CD and testing
 
----
 
 ## 3. Iterative and Incremental Delivery
 
 * Sprint 1: Backend API
 * Sprint 2: Full system with UI and Docker
 
----
 
 ## 4. Customer Collaboration Simulation
 
 Feedback was simulated through sprint reviews, where improvements were identified and applied in subsequent iterations.
 
----
 
 ## 5. Responding to Change
 
