@@ -4,7 +4,6 @@
 
 The goal of Sprint 0 is to establish the foundational structure of the project, including defining the product vision, preparing the product backlog, setting up the development environment, and configuring the initial DevOps pipeline.
 
----
 
 ## 2. Sprint 0 Activities
 
@@ -16,19 +15,16 @@ The goal of Sprint 0 is to establish the foundational structure of the project, 
 * Select technology stack
 * Identify potential risks
 
----
 
 ## 3. Product Vision
 
 To develop a simple, efficient, and user-friendly task management application that allows users to organize and track their daily activities with minimal complexity.
 
----
 
 ## 4. Product Goal
 
 To deliver a fully functional task management system with core CRUD functionality and automated deployment within two development sprints.
 
----
 
 ## 5. Initial Product Backlog (User Stories)
 
@@ -40,7 +36,6 @@ To deliver a fully functional task management system with core CRUD functionalit
 | US4 | As a user, I want to delete a task so that I can remove unnecessary items | Must     |
 | US5 | As a user, I want a simple interface so that I can interact easily        | Should   |
 
----
 
 ## 6. Backlog Prioritization (MoSCoW)
 
@@ -49,7 +44,6 @@ To deliver a fully functional task management system with core CRUD functionalit
 * **Could Have:** Improved UI/UX features
 * **Won’t Have:** Authentication and advanced features (out of scope)
 
----
 
 ## 7. Definition of Done (DoD)
 
@@ -61,7 +55,6 @@ A feature is considered complete when:
 * CI pipeline runs successfully
 * Feature is integrated into the main branch
 
----
 
 ## 8. Technical Setup
 
@@ -74,7 +67,6 @@ A feature is considered complete when:
 | CI/CD            | GitHub Actions  |
 | Containerization | Docker          |
 
----
 
 ## 9. Team Simulation (Individual Project)
 
@@ -84,7 +76,6 @@ Although this is an individual project, Agile roles are simulated as follows:
 * **Scrum Master:** Ensures Agile practices are followed
 * **Developer:** Designs, implements, and tests the system
 
----
 
 ## 10. Planned Agile Ceremonies
 
@@ -93,7 +84,6 @@ Although this is an individual project, Agile roles are simulated as follows:
 * Sprint Review
 * Sprint Retrospective
 
----
 
 ## 11. Risk Assessment and Mitigation
 
@@ -104,7 +94,6 @@ Although this is an individual project, Agile roles are simulated as follows:
 | CI/CD failure    | Medium | Use tested configurations   |
 | Technical issues | Medium | Debug incrementally         |
 
----
 
 ## 12. DevOps Preparation
 
@@ -113,4 +102,3 @@ Although this is an individual project, Agile roles are simulated as follows:
 * Docker setup planned for consistent deployment
 * Testing strategy defined for early validation
 
----
