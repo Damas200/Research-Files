@@ -4,7 +4,6 @@
 
 The goal of Sprint 2 was to enhance the TaskFlow Lite application by developing a user interface, integrating frontend and backend components, and implementing DevOps practices such as containerization and continuous integration.
 
----
 
 ## 2. Sprint Backlog
 
@@ -17,7 +16,6 @@ The goal of Sprint 2 was to enhance the TaskFlow Lite application by developing 
 
 **Total Story Points:** 10
 
----
 
 ## 3. Work Completed
 
@@ -29,7 +27,6 @@ The goal of Sprint 2 was to enhance the TaskFlow Lite application by developing 
 * Resolved Docker networking issues (WSL environment)
 * Handled port conflicts during execution
 
----
 
 ## 4. DevOps in Action
 
@@ -49,14 +46,12 @@ The goal of Sprint 2 was to enhance the TaskFlow Lite application by developing 
 * Application successfully executed inside Docker container
 * Verified through logs and local testing
 
----
 
 ## 5. Monitoring and Logging
 
 * Flask logs used to monitor requests and debug errors
 * Identified and resolved runtime and networking issues
 
----
 
 ## 6. Working Increment Delivered
 
@@ -67,13 +62,11 @@ The final system includes:
 * Real-time interaction between frontend and backend
 * Application running both locally and in Docker
 
----
 
 ## 7. Sprint Review
 
 The completed system was demonstrated successfully, showing full functionality from user input to backend processing and output display. All Sprint 2 objectives were achieved.
 
----
 
 ## 8. Sprint Retrospective
 
@@ -94,7 +87,6 @@ The completed system was demonstrated successfully, showing full functionality f
 * Enhanced debugging skills
 * Improved planning accuracy
 
----
 
 ## 9. Velocity Improvement
 
@@ -104,4 +96,3 @@ Sprint 2 showed improved velocity due to:
 * Better estimation and planning
 * Reduced setup time
 
----
